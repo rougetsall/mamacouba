@@ -1,0 +1,10 @@
+2020-04-18T16:02:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\cakeluxury\wp-admin\includes\image.php à la ligne 25
+
+2020-04-18T16:02:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\cakeluxury\wp-includes\Requests\Transport\cURL.php à la ligne 441
+
+2020-04-18T16:03:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\cakeluxury\wp-includes\widgets\class-wp-widget-archives.php à la ligne 17
+
+2020-04-18T16:04:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\cakeluxury\wp-content\themes\Divi\includes\builder\module\PostsNavigation.php à la ligne 3
+
+2020-04-18T18:27:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\cakeluxury\wp-content\plugins\mailchimp-for-woocommerce\includes\vendor\action-scheduler\classes\abstracts\ActionScheduler_Abstract_Schema.php à la ligne 13
+
